@@ -2,7 +2,7 @@
 
 ## NEW FEATURES
 
-
+- Added a CSS theme `a2rug` (Ann Arbor R User Group) (thanks, @a2rug).
 
 # CHANGES IN xaringan VERSION 0.7
 
